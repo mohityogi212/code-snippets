@@ -1,0 +1,39 @@
+DSA Topic step wise ! 
+~Big-O, Space and Time Complexity
+
+~Ideas of iteration and loop
+
+~Ideas of Recursion and Analysis
+
+~Sorting and Searching Algorithms
+
+~Hashing and Hash functions
+
+~Array: Properties and Operations
+
+~Linked-list: Properties and Operations
+
+~Stack: Properties and Operations
+
+~Queue: Properties and Operations
+
+~Tree Properties and Traversals
+BST: Properties and Operations
+
+~Dictionary and Priority Queue
+
+~Heap: Properties and Operations
+
+~Trie: Properties and Operations
+
+~Segment Tree: Structure, Operations
+
+~Graph: Properties and Traversals
+
+~Ideas and steps of DP
+
+~Ideas and steps of Backtracking
+
+~Ideas and steps of Greedy Algorithms
+
+~Popular String Algorithms
